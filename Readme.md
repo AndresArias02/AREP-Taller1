@@ -67,6 +67,14 @@ Para instalar y ejecutar esta aplicación, sigue los siguientes pasos:
 
    Navega a http://localhost:8080/shoppingCart.html para interactuar con la aplicación.
 
+## Ejecutando las pruebas 
+
+Para ejecutar las pruebas, ejecute el siguiente comando:
+
+```bash
+mvn test
+```
+
 ## verionamiento 
 
 ![AREP LAB 01](https://img.shields.io/badge/AREP_LAB_01-v1.0.0-blue)
